@@ -2286,7 +2286,6 @@ s0.doubleclick.net
 s1.2mdn.net
 s1.doubleclick.net
 s2d6.com
-s3.amazonaws.com
 s3.phluant.com
 s6.chatango.com
 s79.research.de.com
