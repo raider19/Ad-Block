@@ -3369,6 +3369,4 @@ www.amazon.com.mx
 www.amazon.co.jp
 scontent.fyyz1-1.fna.fbcdn.net
 products.office.com
-api.amazon.ca
 ads.td.com
-play.googleapis.com
