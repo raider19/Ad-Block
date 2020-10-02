@@ -799,7 +799,6 @@ crowdgravity.com
 crownclam.com
 cscdns.com
 cse.google.com
-csi.gstatic.com
 ctl.buyt.in
 ctnet2.in
 ctnetwork.hu
